@@ -1,3 +1,12 @@
+This is a broken version of BankAccount assignment.
+I do not plan to fix it, but it is a good example for someone else.
+The only calls that are not working right now are the printing of
+the balance and interest.
+
+For an example of a solution visit:
+
+https://github.com/patybn3/BankAccount2_JAVA
+
 LAB BankAccount - OBJECTIVE PART 1:  Students will gain experience using methods and setting parameter/argument lists
 OBJECTIVE PART 2: To demonstrate the concepts of Method Overloading and Inheritance in code
 
@@ -26,13 +35,3 @@ Professor: Kristen Sparrow
 
 * * @author Patricia N. Antlitz
 *  * @version 1.0
-    
-
-This is a broken version of BankAccount assignment.
-I do not plan to fix it, but it is a good example for someone else.
-The only calls that are not working right now are the printing of
-the balance and interest.
-
-For an example of a solution visit:
-
-https://github.com/patybn3/BankAccount2_JAVA
